@@ -13,6 +13,17 @@ In this assignment, we implement a fully automated system for robust **homograph
 - **Programming Language**: Python  
 - **Tools**: OpenCV, NumPy, SciPy, Matplotlib  
 
+## 📷 Images  
+Below are examples of the results produced by this project:   
+
+![Input Image 1](path/to/image1.png)  
+![Input Image 2](path/to/image2.png)  
+![Input Image 3](path/to/image3.png)  
+
+### Output Panorama  
+*(Insert the final stitched panorama here)*  
+
+![Output Panorama](path/to/panorama.png)  
 
 
 
