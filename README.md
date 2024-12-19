@@ -7,7 +7,10 @@ In this assignment, we implement a fully automated system for robust **homograph
 - Enhanced interest point correspondences using the **RANSAC algorithm** to reject outliers.  
 - Obtained initial homography estimates using **linear least-squares methods**.  
 - Refined homographies with **Nonlinear Least-Squares minimization** techniques, such as the **Levenberg-Marquardt algorithm**.  
-- Applied the workflow to overlapping images to generate a seamless panorama, demonstrating robustness in the presence of outliers.  
+- Applied the workflow to overlapping images to generate a seamless panorama, demonstrating robustness in the presence of outliers.
+
+## Setup 
+Have 5 images that overlap slightly and place then in the same repository as the hw5_new.py file. Then change the paths to those images at the top of the main function.
 
 ## 🚀 Tech Stack  
 - **Programming Language**: Python  
