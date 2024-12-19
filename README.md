@@ -16,14 +16,11 @@ In this assignment, we implement a fully automated system for robust **homograph
 ## 📷 Images  
 Below are examples of the results produced by this project:   
 
-![Input Image 1](path/to/image1.png)  
-![Input Image 2](path/to/image2.png)  
-![Input Image 3](path/to/image3.png)  
+![Input Image 1](panarama_creation/RANSAC_points.jpg)  
+![Input Image 2]panarama_creation/SIFT_points.jpg)  
 
 ### Output Panorama  
-*(Insert the final stitched panorama here)*  
-
-![Output Panorama](path/to/panorama.png)  
+![Output Panorama](path/to/panorama_img.jpg)  
 
 
 
